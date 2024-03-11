@@ -15,10 +15,10 @@
 ![openzeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=fff&style=for-the-badge)
 ![web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
 
-<img src="https://img.shields.io/badge/nodedotjs?style=#339933&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 
-// ### Hi there 👋
 <!--
+### Hi there 👋
 **ojhhh/ojhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
