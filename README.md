@@ -46,10 +46,10 @@
   
   <div>
     <h4>Current Learning Stack</h4>
-    <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/> <br />
-    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/> <br />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <br />
-    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <br />
+    <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   </div>
   
