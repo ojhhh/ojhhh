@@ -1,6 +1,5 @@
 <div align="center">
   <h2>Tech Stack</h2>
-  <br />
   
   <div>
     <h4>Programming Languages and Frameworks</h4>
