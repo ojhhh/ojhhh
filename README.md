@@ -1,22 +1,59 @@
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)
-![openzeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=fff&style=for-the-badge)
-![web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
-
 <div align="center">
-  <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <h2>Tech Stack</h2>
+  <br />
+  
+  <div>
+    <h4>Programming Languages and Frameworks</h4>
+    <!--     
+    <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Css3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+    -->
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ExpressJs-000000?style=flat&logo=express&logoColor=white"/>
+    <br />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  </div>
+ 
+  <div>
+    <h4>Databases and ORM</h4>
+    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
+    <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+  </div>
+
+  <div>
+    <h4>Blockchain and Smart Contracts</h4>
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Openzeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web3js-F16822?style=flat&logo=web3dotjs&logoColor=white"/>
+  </div>
+
+  <div>
+    <h4>Development Tools and Environments</h4>
+    <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/insomnia-4000BF?style=flat&logo=insomnia&logoColor=white"/>
+    <br />
+    <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+  </div>
+  
+  <div>
+    <h4>Current Learning Stack</h4>
+    <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/> <br />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/> <br />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <br />
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <br />
+    <img src="https://img.shields.io/badge/Githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  </div>
+  
 </div>
 <!--
 ### Hi there 👋
