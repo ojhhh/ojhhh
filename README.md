@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/ExpressJs-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
     <br />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
@@ -42,16 +43,20 @@
     <br />
     <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   </div>
-  
+
+  <!--
   <div>
     <h4>Current Learning Stack</h4>
-    <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   </div>
+  -->
   
 </div>
 <!--
