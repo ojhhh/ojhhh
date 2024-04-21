@@ -22,7 +22,8 @@
     <h4>Databases and ORM</h4>
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/> </br>
+    <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
     <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
     <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
   </div>
@@ -46,6 +47,10 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  </div>
+
+  <div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
   </div>
 
   <!--
