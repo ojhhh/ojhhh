@@ -49,9 +49,18 @@
     <img src="https://img.shields.io/badge/Githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   </div>
 
-  <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-  </div>
+  </br> </br>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ojhhh&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ojhhh&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=ojhhh&show_icons=true" />
+  </picture>
 
   <!--
   <div>
