@@ -24,10 +24,10 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/> </br>
     <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
-    <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
     <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
   </div>
 
+  <!--
   <div>
     <h4>Blockchain and Smart Contracts</h4>
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white"/>
@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/Openzeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Web3js-F16822?style=flat&logo=web3dotjs&logoColor=white"/>
   </div>
+  -->
 
   <div>
     <h4>Development Tools and Environments</h4>
