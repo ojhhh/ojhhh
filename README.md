@@ -17,7 +17,8 @@
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
   </div>
- 
+  
+  <!--
   <div>
     <h4>Databases and ORM</h4>
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -26,7 +27,8 @@
     <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
     <img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
   </div>
-
+  -->
+  
   <!--
   <div>
     <h4>Blockchain and Smart Contracts</h4>
@@ -36,7 +38,8 @@
     <img src="https://img.shields.io/badge/Web3js-F16822?style=flat&logo=web3dotjs&logoColor=white"/>
   </div>
   -->
-
+  
+  <!--
   <div>
     <h4>Development Tools and Environments</h4>
     <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
@@ -49,8 +52,9 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   </div>
-
+  -->
   </br> </br>
+  <!--
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=ojhhh&show_icons=true&theme=dark"
@@ -63,7 +67,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ojhhh&show_icons=true" />
   </picture>
 
-  <!--
+
   <div>
     <h4>Current Learning Stack</h4>
     <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
