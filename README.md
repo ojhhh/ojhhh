@@ -2,11 +2,8 @@
   <h2>Tech Stack</h2>
   
   <div>
-    <h4>Programming Languages and Frameworks</h4>
-    </br>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-    </br>
   </div>
   
   <!--
